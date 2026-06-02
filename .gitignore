@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 自动生成的索引文件（不应提交）
+.index_cache.json
+.tool-index.json
+
+# 用户记忆（不应提交真实数据）
+user-memory/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

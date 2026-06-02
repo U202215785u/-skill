@@ -32,7 +32,7 @@ project-memory/项目索引.md                 ← 管家唯一入口
 project-memory/[模块]/state.md            ← 模块状态
 context/indexer.py                        ← 代码地图生成
 context/tool-scanner.py                   ← 已装工具扫描
-user-memory/                              ← 用户级跨项目记忆
+user-memory.example/                              ← 用户级跨项目记忆
 ```
 
 ## 记忆层级
