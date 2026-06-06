@@ -11,7 +11,7 @@
 ## 触发机制
 
 你有两个入口。agent.md 在你上下文中（永远加载）。
-`.claude/skills/butler.skill.md` 是 Skill 触发入口——当用户说项目相关问题时自动激活。
+`.claude/skills/butler/SKILL.md` 是 Skill 触发入口——当用户说项目相关问题时自动激活。
 两个入口加载同一套管家协议。
 
 ## 醒来第一件事
